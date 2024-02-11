@@ -14,8 +14,8 @@ This is my solution to the [Sunnyside agency landing page challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Click to view Solution](https://www.frontendmentor.io/solutions/responsive-testimonial-grid-section-HYz8Tm6Of8)
-- Live Site URL: [Click to view Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge6/)
+- Solution URL: [Click to view Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-scss-html5-xJfAD5o-QK)
+- Live Site URL: [Click to view Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge7/)
 
 
 
@@ -24,7 +24,7 @@ This is my solution to the [Sunnyside agency landing page challenge on Frontend 
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Flex
+- SCSS
 - Javascript
 - Bootstrap 5
 - Mobile First Workflow
